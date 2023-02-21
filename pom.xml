@@ -49,6 +49,7 @@
 		</dependency>
 	</dependencies>
 
+
 	<build>
 		<plugins>
 			<plugin>
@@ -64,6 +65,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>backend</finalName>
 	</build>
 
 </project>
